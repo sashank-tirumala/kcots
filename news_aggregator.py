@@ -1,3 +1,7 @@
+"""
+Uses the News API to fetch the top headlines from a specific country and category.
+"""
+
 import json
 import os
 

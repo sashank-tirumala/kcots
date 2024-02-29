@@ -1,3 +1,8 @@
+"""
+This script uses the OpenAI API to perform sentiment analysis on news articles. The news articles are stored in a JSON file
+and the output is written to a text file.
+"""
+
 import json
 from enum import Enum
 
